@@ -11,3 +11,7 @@ Estou aberto a sugestões e colaborações. Fique à vontade para explorar os pr
 - Análise de Devedores - [repositório](https://github.com/WevertonVerica/An-lise-de-devedores) 
 
   > *Resumo*: Devido ao alto número de devedores no município e aos diversos casos em que acordos são realizados, mas não são honrados, torna-se essencial encontrar formas de aumentar a taxa de pagamento e beneficiar os contribuintes que cumprem com suas obrigações. Com esse objetivo, este projeto visa realizar uma análise descritiva prévia e elaborar um perfil para cada contribuinte que possui débitos, classificando-os como bons, médios ou maus pagadores.
+
+- Mapeamento do Paraná - [repositório](https://github.com/WevertonVerica/Mapeamento_Parana) | [dissertação](https://tede.unioeste.br/bitstream/tede/3916/5/Weverton_Verica2018.pdf)
+
+  > *Resumo*: O conhecimento da localização e da extensão das áreas destinadas à agricultura é de extrema relevância para auxiliar gestores públicos na tomada de decisões embasadas em dados precisos e alinhados com a realidade. Nesse contexto, o objetivo deste projeto é realizar um mapeamento das áreas agrícolas do estado do Paraná por meio de imagens de satélite, utilizando uma abordagem semi-automática. Este tema foi originalmente explorado em minha dissertação de mestrado; no entanto, para este projeto, a metodologia foi aprimorada, buscando maior automação e eficiência.
