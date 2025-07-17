@@ -28,3 +28,10 @@ Estou aberto a sugestões e colaborações. Fique à vontade para explorar os pr
 
   > *Resumo*: Este estudo tem como objetivo avaliar a efetividade do programa de incentivo fiscal que reduz a alíquota do ITBI em 50%. A medida já foi 
 implementada em três ocasiões anteriores e atualmente discute-se a possibilidade de uma nova aplicação do programa.
+  >
+- Análise das ocorrências dos acidentes de trânsito no município de Cascavel - [Artigo](https://seer.pucgoias.edu.br/index.php/baru/article/view/8149/4670) 
+
+  > *Resumo*: Considerando-se os elevados índices de acidentes de trânsito, o atendimento proporcionado às vítimas de traumas em decorrência desses acidentes deve ser especializado e acompanhado de transporte rápido e eficiente às unidades hospitalares. Neste trabalho, objetivou-se verificar o tipo ocorrência mais relevante atendida pelo 4º Grupamento de Bombeiros no munícipio de Cascavel, e assim realizar um estudo desta ocorrência e de possíveis melhorias na sinalização de trânsito nos locais em que foi registrada. Teve-se ainda como intuito analisar qual seria a melhor localização para implantação de um novo posto do Corpo de Bombeiros em Cascavel, considerado restrições impostas pelos mesmos. Para cumprir os objetivos, utilizou-se Sistema de Informação Geográfica vinculado a técnicas de geoprocessamento e levantamentos de dados a campo.
+  
+
+  
