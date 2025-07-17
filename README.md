@@ -23,3 +23,8 @@ Estou aberto a sugestões e colaborações. Fique à vontade para explorar os pr
 - Modelagem Preditiva da Receita de IPTU - [repositório](https://github.com/WevertonVerica/Previs-o_de_IPTU_2025) 
 
   > *Resumo*: Este estudo tem como objetivo prever a arrecadação do IPTU da prefeitura de Cascavel em 2025, por meio de análise de séries temporais com dados mensais de janeiro de 2020 a fevereiro de 2025. Para assegurar a comparabilidade ao longo do período, os valores foram corrigidos com base na Unidade Fiscal do Município (UFM), adotada pela própria prefeitura para ajustar anualmente o IPTU.
+  > 
+- Análise da Efetividade do Programa de Redução da Alíquota do ITBI - [repositório](https://github.com/WevertonVerica/AnalisedeviabilidadeITBI) 
+
+  > *Resumo*: Este estudo tem como objetivo avaliar a efetividade do programa de incentivo fiscal que reduz a alíquota do ITBI em 50%. A medida já foi 
+implementada em três ocasiões anteriores e atualmente discute-se a possibilidade de uma nova aplicação do programa.
